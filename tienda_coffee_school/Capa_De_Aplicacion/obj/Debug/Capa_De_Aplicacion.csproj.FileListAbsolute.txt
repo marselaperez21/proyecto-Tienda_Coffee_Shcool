@@ -1,0 +1,13 @@
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\bin\Debug\Capa_De_Aplicacion.exe.config
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\bin\Debug\Capa_De_Aplicacion.exe
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\bin\Debug\Capa_De_Aplicacion.pdb
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\bin\Debug\Capa_De_Negocios.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\bin\Debug\Entidades.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\bin\Debug\Capa_De_Negocios.pdb
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\bin\Debug\Entidades.pdb
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\obj\Debug\Capa_De_Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\obj\Debug\Capa_De_Aplicacion.frmClientes.resources
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\obj\Debug\Capa_De_Aplicacion.Properties.Resources.resources
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\obj\Debug\Capa_De_Aplicacion.csproj.GenerateResource.Cache
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\obj\Debug\Capa_De_Aplicacion.exe
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Aplicacion\obj\Debug\Capa_De_Aplicacion.pdb

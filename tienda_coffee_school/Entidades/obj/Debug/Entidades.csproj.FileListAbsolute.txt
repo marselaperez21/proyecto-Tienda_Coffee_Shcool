@@ -1,0 +1,5 @@
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Entidades\bin\Debug\Entidades.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Entidades\obj\Debug\Entidades.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Entidades\obj\Debug\Entidades.pdb

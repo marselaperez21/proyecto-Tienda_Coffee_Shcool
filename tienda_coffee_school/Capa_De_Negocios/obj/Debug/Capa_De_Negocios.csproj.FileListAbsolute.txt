@@ -1,0 +1,9 @@
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\bin\Debug\Capa_De_Negocios.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\bin\Debug\Capa_De_Negocios.pdb
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\bin\Debug\Capa_De_Datos.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\bin\Debug\Entidades.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\bin\Debug\Capa_De_Datos.pdb
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\bin\Debug\Entidades.pdb
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\obj\Debug\Capa_De_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\obj\Debug\Capa_De_Negocios.dll
+C:\Users\User88\Documents\ejercicios_visualstudio\tienda_coffee_school\Capa_De_Negocios\obj\Debug\Capa_De_Negocios.pdb
